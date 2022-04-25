@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+   height: 100vh;
+   
+   /* border: 1px solid black; */
+}
+
+.c1{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+    text-align: center;
+    padding: 10px;
+  }
+  .c2{
+    height: 100vh;
+    padding:10px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+  }
+  .c3{
+    height: 60%;
+    width: 600px;
+    border: 2px solid black;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  label{
+    margin: 20px;
+    
+    }
+    .c4 {
+      width: 200px;
+      padding: 10px;
+      
+    }
+    .bu1{
+      
+      padding: 10px;
+    }
+    input{
+      padding: 10px;
+    }
+  .c5{
+    padding: 10px;
+  }
+  .c6{
+    margin: 10px;
+    border-radius: 5px;
+    padding: 5px 25px;
+  }
+  .c7{
+    padding: 10px;
+  }
+/* .c1{
+    border: 1px solid black;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+} */
+/* form{
+    width: 600px;
+    height: 500px;
+    border: 1px solid black;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+} */
+label{
+    margin: 20px;
+    
+}
+.d{
+   border: 1px solid black; 
+   
+}
+.d1{
+    height: 80%;
+    width: 70%;
+    align-items: center;
+    border: 1px solid black;
+    text-align: center;
+    padding-bottom: 30px;
+    position: relative;
+}
+.d0{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.d2{
+    display: flex;
+    flex-direction: row;
+    margin: 30px 0;
+}
+h3{
+    margin-right: 100px;
+    margin-left: 10px;
+}
+.d3{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 50px;
+}
+.button{
+    height: 10px;
+    width: 100px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.bu1{
+    padding: 10px;
+    margin-top:20px ;
+}
+
+tr,td{
+    border: 1px solid black;
+    padding: 15px 50px;
+   
+}
+.d4{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
